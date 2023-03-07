@@ -2,7 +2,7 @@ import openai
 import pdfplumber
 
 # Authenticate with the API
-openai.api_key = "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"
+openai.api_key = "Your_Api_key"
 
 # Load the PDF using pdfplumber
 def load_pdf(filepath):
